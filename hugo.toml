@@ -3,15 +3,15 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "The Smith's Forge"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "The Smith's Forge LLC 2024"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Austin Smith"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+  name = "The Smith's Forge"
+  headline = "Makers of fine dice and dice-making tools"
+  image = "img/icon.jpg"  # path relative to static directory
 
   links = [
     # { email = "mailto:hello@your_domain.com" },
@@ -49,14 +49,14 @@ disableKinds = ["taxonomy", "term"]
     # { stack-overflow = "https://stackoverflow.com/users/userid/username" },
     # { steam = "https://steamcommunity.com/profiles/userid" },
     # { telegram = "https://t.me/username" },
-    # { threads = "https://threads.com/username" },
-    # { tiktok = "https://tiktok.com/@username" },
+    { threads = "https://www.threads.net/@the_smiths_forge" },
+    { tiktok = "https://www.tiktok.com/@the.smiths.forge" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "https://x.com/username" },
-    { youtube = "http://localhost:1313" },
+    { youtube = "https://www.youtube.com/@TheSmithsForge" },
   ]
 
 [module]
