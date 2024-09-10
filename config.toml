@@ -1,15 +1,15 @@
-# baseURL = "https://thesmithsforge.net/"
+# baseURL = "https://your_domain.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "The Smith's Forge"
+title = "Lynx"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Austin Smith"
+  # name = "Your name here"
   # headline = "An awesome person"
   # image = "img/author.jpg"  # path relative to static directory
 
@@ -30,7 +30,7 @@ disableKinds = ["taxonomy", "term"]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    { instagram = "https://www.instagram.com/the_smiths_forge/" },
+    # { instagram = "https://instagram.com/username" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
@@ -40,7 +40,7 @@ disableKinds = ["taxonomy", "term"]
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
     # { pinterest = "https://pinterest.com/username" },
-    { reddit = "https://www.reddit.com/user/buddha777353/" },
+    # { reddit = "https://reddit.com/user/username" },
     # { slack = "https://workspace.url/team/userid" },
     # { snapchat = "https://snapchat.com/add/username" },
     # { soundcloud = "https://soundcloud.com/username" },
@@ -56,7 +56,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "https://x.com/username" },
-    { youtube = "http://localhost:1313" },
+    # { youtube = "https://youtube.com/username" },
   ]
 
 [module]
